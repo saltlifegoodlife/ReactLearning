@@ -1,4 +1,4 @@
-export const expenses = [
+export const base_expenses = [
   {
     id: "e1",
     title: "Toilet Paper",
